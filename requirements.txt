@@ -1,0 +1,5 @@
+appwrite
+reportlab
+pdf2image
+Pillow
+PyPDF2
